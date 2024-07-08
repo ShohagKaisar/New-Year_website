@@ -341,7 +341,7 @@ height: 305.69px;
 .seven-container{
   margin-top: 100px;
   width: 1148px;
-  height: 1011px;
+  min-height: 1011px;
 }
 .seven-container h6{
 color: rgb(255, 0, 0);
